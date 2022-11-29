@@ -1,0 +1,7 @@
+{
+  "typescript.suggest.paths": true,
+  "files.associations": {
+    "pages.json": "jsonc",
+    "manifest.json": "jsonc"
+  },
+}
