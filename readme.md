@@ -6,14 +6,10 @@ https://gitee.com/dcloud/uni-preset-vue/repository/archive/vite-ts.zip
 
 # 拉取代码
 
-- gitee
 
-```
-git clone git@gitee.com:mfxhb/uni-uview-v3ts-template.git
-```
 
 - github
 
 ```
-git clone git@github.com:mfxhb/vue-fz-uniapp-uview-v3tsVitePinia.git
+git clone git@github.com:Zuowuji/vue-fz-uniapp-uview-v3tsVitePinia.git
 ```
